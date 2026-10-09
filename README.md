@@ -17,6 +17,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/AakarshKashyap/My_Leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0049-group-anagrams](https://github.com/AakarshKashyap/My_Leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AakarshKashyap/My_Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AakarshKashyap/My_Leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
@@ -75,6 +76,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/AakarshKashyap/My_Leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AakarshKashyap/My_Leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0283-move-zeroes](https://github.com/AakarshKashyap/My_Leetcode/tree/main/0283-move-zeroes/) | Easy |
 <!---LeetCode Topics End-->
