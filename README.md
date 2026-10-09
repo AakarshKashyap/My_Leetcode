@@ -26,6 +26,7 @@
 | [0283-move-zeroes](https://github.com/AakarshKashyap/My_Leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/AakarshKashyap/My_Leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0704-binary-search](https://github.com/AakarshKashyap/My_Leetcode/tree/main/0704-binary-search/) | Easy |
+| [1004-max-consecutive-ones-iii](https://github.com/AakarshKashyap/My_Leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/AakarshKashyap/My_Leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -63,6 +64,7 @@
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/AakarshKashyap/My_Leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/AakarshKashyap/My_Leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [1004-max-consecutive-ones-iii](https://github.com/AakarshKashyap/My_Leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/AakarshKashyap/My_Leetcode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -70,10 +72,12 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AakarshKashyap/My_Leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/AakarshKashyap/My_Leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0704-binary-search](https://github.com/AakarshKashyap/My_Leetcode/tree/main/0704-binary-search/) | Easy |
+| [1004-max-consecutive-ones-iii](https://github.com/AakarshKashyap/My_Leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/AakarshKashyap/My_Leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [1004-max-consecutive-ones-iii](https://github.com/AakarshKashyap/My_Leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
