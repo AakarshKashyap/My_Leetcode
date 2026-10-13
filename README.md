@@ -33,6 +33,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/AakarshKashyap/My_Leetcode/tree/main/0049-group-anagrams/) | Medium |
+| [0141-linked-list-cycle](https://github.com/AakarshKashyap/My_Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/AakarshKashyap/My_Leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
@@ -85,16 +86,22 @@
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AakarshKashyap/My_Leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/AakarshKashyap/My_Leetcode/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
+| [0141-linked-list-cycle](https://github.com/AakarshKashyap/My_Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AakarshKashyap/My_Leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0283-move-zeroes](https://github.com/AakarshKashyap/My_Leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/AakarshKashyap/My_Leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/AakarshKashyap/My_Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0707-design-linked-list](https://github.com/AakarshKashyap/My_Leetcode/tree/main/0707-design-linked-list/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/AakarshKashyap/My_Leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0707-design-linked-list](https://github.com/AakarshKashyap/My_Leetcode/tree/main/0707-design-linked-list/) | Medium |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/AakarshKashyap/My_Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 <!---LeetCode Topics End-->
