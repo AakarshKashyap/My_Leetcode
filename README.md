@@ -13,6 +13,7 @@
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0206-reverse-linked-list](https://github.com/AakarshKashyap/My_Leetcode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0231-power-of-two](https://github.com/AakarshKashyap/My_Leetcode/tree/main/0231-power-of-two/) | Easy |
 ## Array
 | Problem Name | Difficulty |
@@ -96,6 +97,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/AakarshKashyap/My_Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
+| [0206-reverse-linked-list](https://github.com/AakarshKashyap/My_Leetcode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0707-design-linked-list](https://github.com/AakarshKashyap/My_Leetcode/tree/main/0707-design-linked-list/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/AakarshKashyap/My_Leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Design
