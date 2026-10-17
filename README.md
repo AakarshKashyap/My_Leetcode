@@ -98,6 +98,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/AakarshKashyap/My_Leetcode/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/AakarshKashyap/My_Leetcode/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0141-linked-list-cycle](https://github.com/AakarshKashyap/My_Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0206-reverse-linked-list](https://github.com/AakarshKashyap/My_Leetcode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0707-design-linked-list](https://github.com/AakarshKashyap/My_Leetcode/tree/main/0707-design-linked-list/) | Medium |
