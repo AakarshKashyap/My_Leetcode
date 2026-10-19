@@ -7,6 +7,7 @@
 | [0050-powx-n](https://github.com/AakarshKashyap/My_Leetcode/tree/main/0050-powx-n/) | Medium |
 | [0231-power-of-two](https://github.com/AakarshKashyap/My_Leetcode/tree/main/0231-power-of-two/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/AakarshKashyap/My_Leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
+| [2235-add-two-integers](https://github.com/AakarshKashyap/My_Leetcode/tree/main/2235-add-two-integers/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
