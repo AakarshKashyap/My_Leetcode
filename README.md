@@ -41,6 +41,7 @@
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/AakarshKashyap/My_Leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0141-linked-list-cycle](https://github.com/AakarshKashyap/My_Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
+| [0160-intersection-of-two-linked-lists](https://github.com/AakarshKashyap/My_Leetcode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/AakarshKashyap/My_Leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
@@ -97,6 +98,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AakarshKashyap/My_Leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/AakarshKashyap/My_Leetcode/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0141-linked-list-cycle](https://github.com/AakarshKashyap/My_Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
+| [0160-intersection-of-two-linked-lists](https://github.com/AakarshKashyap/My_Leetcode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AakarshKashyap/My_Leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/AakarshKashyap/My_Leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0283-move-zeroes](https://github.com/AakarshKashyap/My_Leetcode/tree/main/0283-move-zeroes/) | Easy |
@@ -109,6 +111,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/AakarshKashyap/My_Leetcode/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/AakarshKashyap/My_Leetcode/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0141-linked-list-cycle](https://github.com/AakarshKashyap/My_Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
+| [0160-intersection-of-two-linked-lists](https://github.com/AakarshKashyap/My_Leetcode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/AakarshKashyap/My_Leetcode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/AakarshKashyap/My_Leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0707-design-linked-list](https://github.com/AakarshKashyap/My_Leetcode/tree/main/0707-design-linked-list/) | Medium |
