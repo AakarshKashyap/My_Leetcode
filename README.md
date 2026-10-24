@@ -39,6 +39,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/AakarshKashyap/My_Leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1441-build-an-array-with-stack-operations](https://github.com/AakarshKashyap/My_Leetcode/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/AakarshKashyap/My_Leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
+| [1929-concatenation-of-array](https://github.com/AakarshKashyap/My_Leetcode/tree/main/1929-concatenation-of-array/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -153,4 +154,5 @@
 | ------- | ------- |
 | [0682-baseball-game](https://github.com/AakarshKashyap/My_Leetcode/tree/main/0682-baseball-game/) | Easy |
 | [1441-build-an-array-with-stack-operations](https://github.com/AakarshKashyap/My_Leetcode/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
+| [1929-concatenation-of-array](https://github.com/AakarshKashyap/My_Leetcode/tree/main/1929-concatenation-of-array/) | Easy |
 <!---LeetCode Topics End-->
