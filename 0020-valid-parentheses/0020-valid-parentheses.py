@@ -1,21 +1,19 @@
-class Solution(object):
-    def isValid(self, s):
+class Solution:
+    def isValid(self, s: str) -> bool:
         stack = []
-        pairs = {
-            ")": "(",
-            "]": "[",
-            "}": "{"
-            }
-        for i in s:
-            if i in "([{":
-                stack.append(i)
+        pairs = {")" : "(", 
+                "]" : "[", 
+                "}" : "{"}
+        for ch in s:
+            if ch in "([{":
+                stack.append(ch)
             else:
                 if len(stack) == 0:
                     return False
-                if stack[-1] != pairs[i]:
+                if stack[-1] != pairs[ch]:
                     return False
                 stack.pop()
         return len(stack) == 0
 
-
-
+        
+        
