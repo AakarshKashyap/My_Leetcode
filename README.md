@@ -37,6 +37,7 @@
 | [0682-baseball-game](https://github.com/AakarshKashyap/My_Leetcode/tree/main/0682-baseball-game/) | Easy |
 | [0704-binary-search](https://github.com/AakarshKashyap/My_Leetcode/tree/main/0704-binary-search/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/AakarshKashyap/My_Leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1441-build-an-array-with-stack-operations](https://github.com/AakarshKashyap/My_Leetcode/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/AakarshKashyap/My_Leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -72,6 +73,7 @@
 | [0020-valid-parentheses](https://github.com/AakarshKashyap/My_Leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/AakarshKashyap/My_Leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0682-baseball-game](https://github.com/AakarshKashyap/My_Leetcode/tree/main/0682-baseball-game/) | Easy |
+| [1441-build-an-array-with-stack-operations](https://github.com/AakarshKashyap/My_Leetcode/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [1544-make-the-string-great](https://github.com/AakarshKashyap/My_Leetcode/tree/main/1544-make-the-string-great/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AakarshKashyap/My_Leetcode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Bracket Sequences
@@ -148,4 +150,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0682-baseball-game](https://github.com/AakarshKashyap/My_Leetcode/tree/main/0682-baseball-game/) | Easy |
+| [1441-build-an-array-with-stack-operations](https://github.com/AakarshKashyap/My_Leetcode/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 <!---LeetCode Topics End-->
