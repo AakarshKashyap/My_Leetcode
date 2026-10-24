@@ -36,6 +36,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/AakarshKashyap/My_Leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0682-baseball-game](https://github.com/AakarshKashyap/My_Leetcode/tree/main/0682-baseball-game/) | Easy |
 | [0704-binary-search](https://github.com/AakarshKashyap/My_Leetcode/tree/main/0704-binary-search/) | Easy |
+| [0946-validate-stack-sequences](https://github.com/AakarshKashyap/My_Leetcode/tree/main/0946-validate-stack-sequences/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/AakarshKashyap/My_Leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1441-build-an-array-with-stack-operations](https://github.com/AakarshKashyap/My_Leetcode/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [1470-shuffle-the-array](https://github.com/AakarshKashyap/My_Leetcode/tree/main/1470-shuffle-the-array/) | Easy |
@@ -77,6 +78,7 @@
 | [0020-valid-parentheses](https://github.com/AakarshKashyap/My_Leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/AakarshKashyap/My_Leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0682-baseball-game](https://github.com/AakarshKashyap/My_Leetcode/tree/main/0682-baseball-game/) | Easy |
+| [0946-validate-stack-sequences](https://github.com/AakarshKashyap/My_Leetcode/tree/main/0946-validate-stack-sequences/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/AakarshKashyap/My_Leetcode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/AakarshKashyap/My_Leetcode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1441-build-an-array-with-stack-operations](https://github.com/AakarshKashyap/My_Leetcode/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
@@ -157,6 +159,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0682-baseball-game](https://github.com/AakarshKashyap/My_Leetcode/tree/main/0682-baseball-game/) | Easy |
+| [0946-validate-stack-sequences](https://github.com/AakarshKashyap/My_Leetcode/tree/main/0946-validate-stack-sequences/) | Medium |
 | [1441-build-an-array-with-stack-operations](https://github.com/AakarshKashyap/My_Leetcode/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [1929-concatenation-of-array](https://github.com/AakarshKashyap/My_Leetcode/tree/main/1929-concatenation-of-array/) | Easy |
 <!---LeetCode Topics End-->
