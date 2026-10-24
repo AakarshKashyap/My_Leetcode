@@ -33,6 +33,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AakarshKashyap/My_Leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/AakarshKashyap/My_Leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0283-move-zeroes](https://github.com/AakarshKashyap/My_Leetcode/tree/main/0283-move-zeroes/) | Easy |
+| [0496-next-greater-element-i](https://github.com/AakarshKashyap/My_Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/AakarshKashyap/My_Leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0682-baseball-game](https://github.com/AakarshKashyap/My_Leetcode/tree/main/0682-baseball-game/) | Easy |
 | [0704-binary-search](https://github.com/AakarshKashyap/My_Leetcode/tree/main/0704-binary-search/) | Easy |
@@ -50,6 +51,7 @@
 | [0141-linked-list-cycle](https://github.com/AakarshKashyap/My_Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/AakarshKashyap/My_Leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/AakarshKashyap/My_Leetcode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0496-next-greater-element-i](https://github.com/AakarshKashyap/My_Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/AakarshKashyap/My_Leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
@@ -78,6 +80,7 @@
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/AakarshKashyap/My_Leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/AakarshKashyap/My_Leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0496-next-greater-element-i](https://github.com/AakarshKashyap/My_Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0682-baseball-game](https://github.com/AakarshKashyap/My_Leetcode/tree/main/0682-baseball-game/) | Easy |
 | [0946-validate-stack-sequences](https://github.com/AakarshKashyap/My_Leetcode/tree/main/0946-validate-stack-sequences/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/AakarshKashyap/My_Leetcode/tree/main/1021-remove-outermost-parentheses/) | Easy |
@@ -167,5 +170,6 @@
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0496-next-greater-element-i](https://github.com/AakarshKashyap/My_Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/AakarshKashyap/My_Leetcode/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 <!---LeetCode Topics End-->
