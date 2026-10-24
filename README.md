@@ -172,4 +172,8 @@
 | ------- | ------- |
 | [0496-next-greater-element-i](https://github.com/AakarshKashyap/My_Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/AakarshKashyap/My_Leetcode/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0175-combine-two-tables](https://github.com/AakarshKashyap/My_Leetcode/tree/main/0175-combine-two-tables/) | Easy |
 <!---LeetCode Topics End-->
