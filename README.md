@@ -37,6 +37,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/AakarshKashyap/My_Leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0682-baseball-game](https://github.com/AakarshKashyap/My_Leetcode/tree/main/0682-baseball-game/) | Easy |
 | [0704-binary-search](https://github.com/AakarshKashyap/My_Leetcode/tree/main/0704-binary-search/) | Easy |
+| [0739-daily-temperatures](https://github.com/AakarshKashyap/My_Leetcode/tree/main/0739-daily-temperatures/) | Medium |
 | [0946-validate-stack-sequences](https://github.com/AakarshKashyap/My_Leetcode/tree/main/0946-validate-stack-sequences/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/AakarshKashyap/My_Leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1441-build-an-array-with-stack-operations](https://github.com/AakarshKashyap/My_Leetcode/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
@@ -82,6 +83,7 @@
 | [0234-palindrome-linked-list](https://github.com/AakarshKashyap/My_Leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0496-next-greater-element-i](https://github.com/AakarshKashyap/My_Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0682-baseball-game](https://github.com/AakarshKashyap/My_Leetcode/tree/main/0682-baseball-game/) | Easy |
+| [0739-daily-temperatures](https://github.com/AakarshKashyap/My_Leetcode/tree/main/0739-daily-temperatures/) | Medium |
 | [0946-validate-stack-sequences](https://github.com/AakarshKashyap/My_Leetcode/tree/main/0946-validate-stack-sequences/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/AakarshKashyap/My_Leetcode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/AakarshKashyap/My_Leetcode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
@@ -171,6 +173,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0496-next-greater-element-i](https://github.com/AakarshKashyap/My_Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
+| [0739-daily-temperatures](https://github.com/AakarshKashyap/My_Leetcode/tree/main/0739-daily-temperatures/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/AakarshKashyap/My_Leetcode/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 ## Database
 | Problem Name | Difficulty |
