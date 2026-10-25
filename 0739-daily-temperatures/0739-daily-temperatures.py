@@ -1,5 +1,5 @@
-class Solution(object):
-    def dailyTemperatures(self, temperatures):
+class Solution:
+    def dailyTemperatures(self, temperatures: list[int]) -> list[int]:
         n = len(temperatures)
         ans = [0]*n
         stack = []
@@ -9,4 +9,4 @@ class Solution(object):
                 ans[prev] = i-prev
             stack.append(i)
         return ans
-                
+        
