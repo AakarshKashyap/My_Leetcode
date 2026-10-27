@@ -4,6 +4,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/AakarshKashyap/My_Leetcode/tree/main/0002-add-two-numbers/) | Medium |
 | [0050-powx-n](https://github.com/AakarshKashyap/My_Leetcode/tree/main/0050-powx-n/) | Medium |
 | [0231-power-of-two](https://github.com/AakarshKashyap/My_Leetcode/tree/main/0231-power-of-two/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/AakarshKashyap/My_Leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
@@ -16,6 +17,7 @@
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/AakarshKashyap/My_Leetcode/tree/main/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/AakarshKashyap/My_Leetcode/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0024-swap-nodes-in-pairs](https://github.com/AakarshKashyap/My_Leetcode/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0050-powx-n](https://github.com/AakarshKashyap/My_Leetcode/tree/main/0050-powx-n/) | Medium |
@@ -137,6 +139,7 @@
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/AakarshKashyap/My_Leetcode/tree/main/0002-add-two-numbers/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/AakarshKashyap/My_Leetcode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/AakarshKashyap/My_Leetcode/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0024-swap-nodes-in-pairs](https://github.com/AakarshKashyap/My_Leetcode/tree/main/0024-swap-nodes-in-pairs/) | Medium |
