@@ -65,10 +65,12 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/AakarshKashyap/My_Leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AakarshKashyap/My_Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/AakarshKashyap/My_Leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0020-valid-parentheses](https://github.com/AakarshKashyap/My_Leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0049-group-anagrams](https://github.com/AakarshKashyap/My_Leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/AakarshKashyap/My_Leetcode/tree/main/1021-remove-outermost-parentheses/) | Easy |
@@ -129,6 +131,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/AakarshKashyap/My_Leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/AakarshKashyap/My_Leetcode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AakarshKashyap/My_Leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0061-rotate-list](https://github.com/AakarshKashyap/My_Leetcode/tree/main/0061-rotate-list/) | Medium |
@@ -221,4 +224,8 @@
 | [0101-symmetric-tree](https://github.com/AakarshKashyap/My_Leetcode/tree/main/0101-symmetric-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/AakarshKashyap/My_Leetcode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AakarshKashyap/My_Leetcode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+## Manacher
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/AakarshKashyap/My_Leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
 <!---LeetCode Topics End-->
