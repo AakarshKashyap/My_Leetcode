@@ -208,6 +208,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/AakarshKashyap/My_Leetcode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/AakarshKashyap/My_Leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/AakarshKashyap/My_Leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0700-search-in-a-binary-search-tree](https://github.com/AakarshKashyap/My_Leetcode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -225,6 +226,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/AakarshKashyap/My_Leetcode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/AakarshKashyap/My_Leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/AakarshKashyap/My_Leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0700-search-in-a-binary-search-tree](https://github.com/AakarshKashyap/My_Leetcode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -239,4 +241,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2094-finding-3-digit-even-numbers](https://github.com/AakarshKashyap/My_Leetcode/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/AakarshKashyap/My_Leetcode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 <!---LeetCode Topics End-->
