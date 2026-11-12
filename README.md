@@ -51,6 +51,7 @@
 | [1512-number-of-good-pairs](https://github.com/AakarshKashyap/My_Leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1929-concatenation-of-array](https://github.com/AakarshKashyap/My_Leetcode/tree/main/1929-concatenation-of-array/) | Easy |
 | [2094-finding-3-digit-even-numbers](https://github.com/AakarshKashyap/My_Leetcode/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/AakarshKashyap/My_Leetcode/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
