@@ -55,6 +55,7 @@
 | [1929-concatenation-of-array](https://github.com/AakarshKashyap/My_Leetcode/tree/main/1929-concatenation-of-array/) | Easy |
 | [2094-finding-3-digit-even-numbers](https://github.com/AakarshKashyap/My_Leetcode/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/AakarshKashyap/My_Leetcode/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
+| [3693-climbing-stairs-ii](https://github.com/AakarshKashyap/My_Leetcode/tree/main/3693-climbing-stairs-ii/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -77,6 +78,7 @@
 | [0070-climbing-stairs](https://github.com/AakarshKashyap/My_Leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AakarshKashyap/My_Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0509-fibonacci-number](https://github.com/AakarshKashyap/My_Leetcode/tree/main/0509-fibonacci-number/) | Easy |
+| [3693-climbing-stairs-ii](https://github.com/AakarshKashyap/My_Leetcode/tree/main/3693-climbing-stairs-ii/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
