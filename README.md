@@ -7,6 +7,7 @@
 | [0002-add-two-numbers](https://github.com/AakarshKashyap/My_Leetcode/tree/main/0002-add-two-numbers/) | Medium |
 | [0050-powx-n](https://github.com/AakarshKashyap/My_Leetcode/tree/main/0050-powx-n/) | Medium |
 | [0231-power-of-two](https://github.com/AakarshKashyap/My_Leetcode/tree/main/0231-power-of-two/) | Easy |
+| [0509-fibonacci-number](https://github.com/AakarshKashyap/My_Leetcode/tree/main/0509-fibonacci-number/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/AakarshKashyap/My_Leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [2235-add-two-integers](https://github.com/AakarshKashyap/My_Leetcode/tree/main/2235-add-two-integers/) | Easy |
 | [2469-convert-the-temperature](https://github.com/AakarshKashyap/My_Leetcode/tree/main/2469-convert-the-temperature/) | Easy |
@@ -24,6 +25,7 @@
 | [0206-reverse-linked-list](https://github.com/AakarshKashyap/My_Leetcode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0231-power-of-two](https://github.com/AakarshKashyap/My_Leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/AakarshKashyap/My_Leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0509-fibonacci-number](https://github.com/AakarshKashyap/My_Leetcode/tree/main/0509-fibonacci-number/) | Easy |
 | [2094-finding-3-digit-even-numbers](https://github.com/AakarshKashyap/My_Leetcode/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 ## Array
 | Problem Name | Difficulty |
@@ -72,6 +74,7 @@
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/AakarshKashyap/My_Leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AakarshKashyap/My_Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0509-fibonacci-number](https://github.com/AakarshKashyap/My_Leetcode/tree/main/0509-fibonacci-number/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -253,4 +256,8 @@
 | [0098-validate-binary-search-tree](https://github.com/AakarshKashyap/My_Leetcode/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/AakarshKashyap/My_Leetcode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/AakarshKashyap/My_Leetcode/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/AakarshKashyap/My_Leetcode/tree/main/0509-fibonacci-number/) | Easy |
 <!---LeetCode Topics End-->
