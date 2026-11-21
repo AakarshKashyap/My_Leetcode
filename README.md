@@ -85,6 +85,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/AakarshKashyap/My_Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0005-longest-palindromic-substring](https://github.com/AakarshKashyap/My_Leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0020-valid-parentheses](https://github.com/AakarshKashyap/My_Leetcode/tree/main/0020-valid-parentheses/) | Easy |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AakarshKashyap/My_Leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0049-group-anagrams](https://github.com/AakarshKashyap/My_Leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/AakarshKashyap/My_Leetcode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/AakarshKashyap/My_Leetcode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
@@ -149,6 +150,7 @@
 | [0005-longest-palindromic-substring](https://github.com/AakarshKashyap/My_Leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/AakarshKashyap/My_Leetcode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AakarshKashyap/My_Leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AakarshKashyap/My_Leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0061-rotate-list](https://github.com/AakarshKashyap/My_Leetcode/tree/main/0061-rotate-list/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/AakarshKashyap/My_Leetcode/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0141-linked-list-cycle](https://github.com/AakarshKashyap/My_Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
@@ -265,4 +267,20 @@
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/AakarshKashyap/My_Leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0509-fibonacci-number](https://github.com/AakarshKashyap/My_Leetcode/tree/main/0509-fibonacci-number/) | Easy |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AakarshKashyap/My_Leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Z Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AakarshKashyap/My_Leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Knuth–Morris–Pratt Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AakarshKashyap/My_Leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Boyer–Moore String-Search Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AakarshKashyap/My_Leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 <!---LeetCode Topics End-->
