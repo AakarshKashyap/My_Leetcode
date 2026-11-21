@@ -54,6 +54,7 @@
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/AakarshKashyap/My_Leetcode/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/AakarshKashyap/My_Leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1929-concatenation-of-array](https://github.com/AakarshKashyap/My_Leetcode/tree/main/1929-concatenation-of-array/) | Easy |
+| [2073-time-needed-to-buy-tickets](https://github.com/AakarshKashyap/My_Leetcode/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [2094-finding-3-digit-even-numbers](https://github.com/AakarshKashyap/My_Leetcode/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/AakarshKashyap/My_Leetcode/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
 | [3693-climbing-stairs-ii](https://github.com/AakarshKashyap/My_Leetcode/tree/main/3693-climbing-stairs-ii/) | Medium |
@@ -203,6 +204,7 @@
 | [0946-validate-stack-sequences](https://github.com/AakarshKashyap/My_Leetcode/tree/main/0946-validate-stack-sequences/) | Medium |
 | [1441-build-an-array-with-stack-operations](https://github.com/AakarshKashyap/My_Leetcode/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [1929-concatenation-of-array](https://github.com/AakarshKashyap/My_Leetcode/tree/main/1929-concatenation-of-array/) | Easy |
+| [2073-time-needed-to-buy-tickets](https://github.com/AakarshKashyap/My_Leetcode/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -287,4 +289,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AakarshKashyap/My_Leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2073-time-needed-to-buy-tickets](https://github.com/AakarshKashyap/My_Leetcode/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 <!---LeetCode Topics End-->
