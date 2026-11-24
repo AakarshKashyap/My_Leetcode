@@ -1,11 +1,11 @@
 # Definition for a binary tree node.
-# class TreeNode(object):
+# class TreeNode:
 #     def __init__(self, val=0, left=None, right=None):
 #         self.val = val
 #         self.left = left
 #         self.right = right
-class Solution(object):
-    def levelOrder(self, root):
+class Solution:
+    def levelOrder(self, root: TreeNode | None) -> list[list[int]]:
         if root is None:
             return []
         result = []
@@ -23,4 +23,5 @@ class Solution(object):
                     q.append(curr.right)
             result.append(level)
         return result
+                
         
